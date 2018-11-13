@@ -27,4 +27,14 @@ public class Estudiante extends Persona{
         }
         return detalle;
     }
+
+    public int getNotaMin(){
+        int notaMinima = 100;
+        for (Materia materia:this.materias) {
+            if (materia.getNota()<= notaMinima){
+                notaMinima = materia.getNota();
+            }
+        }
+        return notaMinima;
+    }
 }

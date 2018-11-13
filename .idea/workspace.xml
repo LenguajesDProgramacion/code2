@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2aca83c-1d94-48fa-a69f-7f522d53b5b3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Estudiante.class" afterPath="$PROJECT_DIR$/out/production/classes/Estudiante.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Materia.class" afterPath="$PROJECT_DIR$/out/production/classes/Materia.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/EstudianteTest.class" afterPath="$PROJECT_DIR$/out/test/classes/EstudianteTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Estudiante.java" afterPath="$PROJECT_DIR$/src/main/java/Estudiante.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Materia.java" afterPath="$PROJECT_DIR$/src/main/java/Materia.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EstudianteTest.java" afterPath="$PROJECT_DIR$/src/test/java/EstudianteTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -41,8 +47,8 @@
       <file leaf-file-name="Persona.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="525">
+              <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
               <folding>
                 <element signature="e#338#339#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
@@ -50,7 +56,6 @@
                 <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#482#483#0" expanded="true" />
                 <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
                 <element signature="e#601#602#0" expanded="true" />
                 <element signature="e#627#628#0" expanded="true" />
                 <element signature="e#652#653#0" expanded="true" />
@@ -68,8 +73,8 @@
       <file leaf-file-name="Estudiante.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Estudiante.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="461">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#363#364#0" expanded="true" />
@@ -79,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EstudianteTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EstudianteTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/EstudianteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="461">
+              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,24 +96,61 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ReflectiveCallable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Contador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContadorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ContadorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Materia.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Materia.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="588">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding>
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -434,6 +476,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Materia.java" />
         <option value="$PROJECT_DIR$/src/main/java/Estudiante.java" />
         <option value="$PROJECT_DIR$/src/test/java/EstudianteTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Contador.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ContadorTest.java" />
       </list>
     </option>
   </component>
@@ -459,6 +503,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -506,10 +551,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -542,7 +586,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ContadorTest.decrementar">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -564,6 +608,46 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration name="ContadorTest.decrementar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="code2_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="METHOD_NAME" value="decrementar" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ContadorTest.incrementar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="code2_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ContadorTest" />
+      <option name="METHOD_NAME" value="incrementar" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="EstudianteTest.estudiante" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="code2_test" />
@@ -572,6 +656,26 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="EstudianteTest" />
       <option name="METHOD_NAME" value="estudiante" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EstudianteTest.getNotaMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="code2_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EstudianteTest" />
+      <option name="METHOD_NAME" value="getNotaMin" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -644,9 +748,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.EstudianteTest.estudiante" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EstudianteTest.getNotaMin" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ContadorTest.incrementar" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ContadorTest.decrementar" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EstudianteTest.estudiante" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ContadorTest.decrementar" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ContadorTest.incrementar" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EstudianteTest.getNotaMin" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.EstudianteTest.estudiante" />
       </list>
     </recent_temporary>
   </component>
@@ -667,14 +780,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EstudianteTest_estudiante - 2018.11.06 at 20h 12m 19s.xml">
-      <configuration name="EstudianteTest.estudiante" configurationId="JUnit" />
+    <history-entry file="ContadorTest_decrementar - 2018.11.12 at 20h 42m 56s.xml">
+      <configuration name="ContadorTest.decrementar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EstudianteTest_estudiante - 2018.11.06 at 20h 14m 21s.xml">
-      <configuration name="EstudianteTest.estudiante" configurationId="JUnit" />
+    <history-entry file="ContadorTest_incrementar - 2018.11.12 at 20h 34m 24s.xml">
+      <configuration name="ContadorTest.incrementar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EstudianteTest_estudiante - 2018.11.06 at 20h 14m 37s.xml">
-      <configuration name="EstudianteTest.estudiante" configurationId="JUnit" />
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 07m 09s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 08m 33s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 09m 26s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 10m 39s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 10m 56s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 11m 35s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 11m 48s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EstudianteTest_getNotaMin - 2018.11.12 at 20h 12m 21s.xml">
+      <configuration name="EstudianteTest.getNotaMin" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -683,30 +817,30 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24059293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24059293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2873432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10311493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1595059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28392246" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -716,57 +850,311 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Estudiante.java</url>
-          <line>18</line>
-          <properties class="Estudiante" method="getMateria">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Estudiante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EstudianteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Estudiante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EstudianteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Estudiante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EstudianteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Estudiante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EstudianteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -778,7 +1166,6 @@
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#482#483#0" expanded="true" />
             <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
             <element signature="e#601#602#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#652#653#0" expanded="true" />
@@ -837,10 +1224,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Persona.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="525">
+          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
           <folding>
             <element signature="e#338#339#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
@@ -848,7 +1243,6 @@
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#482#483#0" expanded="true" />
             <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
             <element signature="e#601#602#0" expanded="true" />
             <element signature="e#627#628#0" expanded="true" />
             <element signature="e#652#653#0" expanded="true" />
@@ -864,8 +1258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Estudiante.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="461">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#363#364#0" expanded="true" />
@@ -876,40 +1270,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Materia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="588">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EstudianteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="461">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Contador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ContadorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
