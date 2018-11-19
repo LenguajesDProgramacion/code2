@@ -1,4 +1,4 @@
-public class Masajista extends SeleccionFutbol{
+public abstract class Masajista extends SeleccionFutbol{
     private String titulacion;
     protected int aniosExperiencia;
 

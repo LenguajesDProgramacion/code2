@@ -6,15 +6,8 @@ public class GrupoC extends Cliente{
         this.montoapagar = montoapagar;
     }
 
-    public void nombre(){
-        System.out.print("El nombre del cliente es: ");
-    }
 
     public double totalaPagar(){
-        if (montoapagar > 10000){
-            return (montoapagar*0.02);
-        }else {
-            return montoapagar;
-        }
+        return (montoapagar >= 10000 ? montoapagar*0.98 : montoapagar);
     }
 }

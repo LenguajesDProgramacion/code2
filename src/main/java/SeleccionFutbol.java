@@ -1,4 +1,4 @@
-public class SeleccionFutbol {
+public abstract class SeleccionFutbol {
     private int id;
     private String nombre;
     private String apellidos;
@@ -11,19 +11,11 @@ public class SeleccionFutbol {
         this.edad = edad;
     }
 
-    public void viajar(){
+    public abstract boolean viajar();
 
-    }
+    public abstract void consentrase();
 
-    public void consentrase(){
+    public abstract void entrenamiento();
 
-    }
-
-    public void entrenamiento(){
-
-    }
-
-    public void partidoFutbol(){
-
-    }
+    public abstract void partidoFutbol();
 }

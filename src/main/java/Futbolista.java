@@ -1,4 +1,4 @@
-public class Futbolista extends SeleccionFutbol{
+public abstract class Futbolista extends SeleccionFutbol{
     private int dorsal;
     private String demarcacion;
 
@@ -7,6 +7,7 @@ public class Futbolista extends SeleccionFutbol{
         this.dorsal = dorsal;
         this.demarcacion = demarcacion;
     }
+
     public void entrevista(){
 
     }
